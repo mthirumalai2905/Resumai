@@ -1,4 +1,3 @@
-
 Sure! Here's a detailed and well-structured `README.md` for your **AI-powered Resume Review Project** built with **React 17**, **React Router**, **Puter**, and various AI features including virtual compute, cloud storage, key-value store, authentication, and interaction with AI models.
 
 ---
