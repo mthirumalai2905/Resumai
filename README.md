@@ -63,3 +63,8 @@ git clone https://github.com/your-username/resumemind.git
 cd resumemind
 npm install
 npm run dev
+```
+
+---
+## Preview
+https://github.com/user-attachments/assets/fe19144e-75f3-411f-a605-2bc39f4c6485
