@@ -51,3 +51,15 @@ If not authenticated:
 
 If authenticated:
   → load resume image, PDF, and AI feedback
+
+## 🔧 Getting Started
+
+Follow the steps below to set up and run the ResumeMind project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/resumemind.git
+cd resumemind
+npm install
+npm run dev
